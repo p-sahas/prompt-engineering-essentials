@@ -1,7 +1,7 @@
 [project]
 name = "prompt-engineering-essentials"
 version = "1.0.0"
-description = "Teaching repository for prompt engineering with multi-provider support"
+description = "Repository for prompt engineering with multi-provider support"
 requires-python = ">=3.11"
 dependencies = [
     "python-dotenv>=1.0.0",
