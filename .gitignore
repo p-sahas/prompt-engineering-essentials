@@ -58,6 +58,6 @@ htmlcov/
 
 
 #Temporary
-/utils
+
 /notebooks
 /logs
